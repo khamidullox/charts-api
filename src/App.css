@@ -1,0 +1,11 @@
+.main-div {
+  display: flex;
+  gap: 50px;
+  align-items: end;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.h1__main {
+  width: 100%;
+  text-align: center;
+}
